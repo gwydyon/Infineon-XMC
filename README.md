@@ -1,1 +1,1 @@
-# Infineo-XMC
+# Infineon-XMC
